@@ -24,7 +24,7 @@ Ensure that you have [Blueprint](https://blueprint.zip) already installed on you
 2. Upload the file to your main Pterodactyl directory.
 3. Run the installation command:
    ```bash
-   blueprint -i emeraldabyss
+   blueprint -i abysspurple
    ```
 
 ---
