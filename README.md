@@ -29,6 +29,17 @@ Ensure that you have [Blueprint](https://blueprint.zip) already installed on you
 
 ---
 
+## 📷 Pictures
+<p align="center">
+  <img src="public/AbyssPurplePanel.png" width="400">
+  <img src="public/AbyssPurpleFolder.png" width="400">
+  <img src="public/AbyssPurpleSettings.png" width="400">
+  <img src="public/AbyssPurpleAdminSettings.png" width="400">
+</p>
+
+
+---
+
 ## ⚙️ Configuration
 
 Abyss Purple is ready to use out-of-the-box. Technical details can be found in `conf.yml`:
