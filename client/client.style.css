@@ -64,20 +64,6 @@ div.ServerRow___StyledP3-sc-1ibsw91-9 {
     text-decoration-color: whitesmoke;
 }
 
-div.style-module_2Vp6MaXq.bg-gray-600.cursor-pointer {
-    background: rgba(51, 51, 51, 1);
-    border-radius: 18px;
-    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-    backdrop-filter: blur(9.2px);
-    -webkit-backdrop-filter: blur(9.2px);
-}
-
-div.style-module_2Vp6MaXq {
-    background-color: rgba(59, 130, 246, 0.05) !important;
-    border-radius: 20px !important;
-    border: 1px solid rgba(59, 130, 246, 0.3) !important;
-    backdrop-filter: blur(16px) !important;
-}
 
 div.style-module_2XbmHEcn.group {
     background-color: var(--two);
@@ -197,13 +183,7 @@ textarea.Input__Textarea-sc-19rce1w-1.kKFWRA {
     background-color: var(--two);
 }
 
-div.flex.justify-end.space-x-4.mt-4.w-full.md:mt-0.md:w-48 {
-    background-color: var(--two);
-}
 
-select.Select-sc-17exaqp-0.dupyoa {
-    background-color: var(--one);
-}
 
 div.TitledGreyBox___StyledDiv-sc-gvsoy-0.oLbNP.StartupContainer___StyledTitledGreyBox-sc-163imy2-1.kRunTE {
     background-color: var(--two);
@@ -303,14 +283,6 @@ div[class*="EditScheduleModal___"],
 .Input-sc-19rce1w-0,
 textarea.Input__Textarea-sc-19rce1w-1,
 select.Select-sc-17exaqp-0,
-div.server-console-style-module__stat_block,
-div.style-module_2Vp6MaXq {
+div.server-console-style-module__stat_block {
     border-radius: 18px !important;
-}
-
-/* File Editor Refinement */
-div[class*="FileEditContainer"] {
-    max-width: 950px !important;
-    /* Narrower editor */
-    margin: 20px auto !important;
 }
